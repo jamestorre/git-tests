@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout<<"Version 13 - Feature 1"<<std::endl;
+    std::cout<<"Version 13 - Conflict 2"<<std::endl;
     MyClass mc;
     Feature f1;
     mc.message();
