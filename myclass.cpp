@@ -5,7 +5,8 @@ class MyClass
     public:
     void message()
     {
-        std::cout<<"Sample message";
+        std::cout<<"Sample message"<<std::endl;
+        std::cout<<"Another message";
     }
 
 };

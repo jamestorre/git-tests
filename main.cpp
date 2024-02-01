@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::cout<<"Version 1"<<std::endl;
+    std::cout<<"Version 2"<<std::endl;
     MyClass sample;
     sample.message();
     return 0;
