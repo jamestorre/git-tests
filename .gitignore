@@ -1,2 +1,6 @@
 ignored.txt
 .vscode
+*.obj
+*.exe
+*.ilk
+*.pdb
