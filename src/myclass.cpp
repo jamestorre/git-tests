@@ -6,7 +6,6 @@ class MyClass
     void message()
     {
         std::cout<<"Sample message"<<std::endl;
-        std::cout<<"Version 14"<<std::endl;
     }
 
 };
